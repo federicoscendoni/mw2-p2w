@@ -1,0 +1,34 @@
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\CAMERA.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\CAMERA.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\ENTITY.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\ENTITY.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\HOOK.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\HOOK.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\DLLMAIN.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\DLLMAIN.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\GLOBAL.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\GLOBAL.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_DEMO.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_DEMO.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_DRAW.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_DRAW.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_IMPL_DX11.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_IMPL_DX11.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_IMPL_DX12.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_IMPL_DX12.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_IMPL_WIN32.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_IMPL_WIN32.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_WIDGETS.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\IMGUI\IMGUI_WIDGETS.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\KIERO.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\KIERO.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\MENU.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\MENU.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\RENDER.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\RENDER.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\SETTINGS.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\SETTINGS.CPP
+^C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\VECTOR2D.CPP
+/c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"X64\DEBUG\\" /Fd"X64\DEBUG\VC143.PDB" /external:W3 /Gd /TP /FC C:\USERS\BLKAD\ONEDRIVE\DESKTOP\MW2-P2W-MAIN\MW2-P2W-MAIN\VECTOR2D.CPP
